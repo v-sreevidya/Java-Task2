@@ -1,6 +1,6 @@
 **Objective:** Create a Java program that calculates the grade based on marks entered by the user.<br>
 **Requirements:**
-<br>•** Input:**
+<br>•**Input:**
 <br>• Prompt the user to enter marks obtained (out of 100).
 <br>• Allow the user to enter multiple sets of marks until they choose to stop.
 <br>• **Output:**
